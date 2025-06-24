@@ -1,0 +1,5 @@
+0;1;ADMIN;admin123
+0;1;ADMIN;admin123
+1234;2;UserMaxx;Password
+99999;1;MasterAdmin;Berenati
+2217;1;Bolsonaro;FazL_Bet
