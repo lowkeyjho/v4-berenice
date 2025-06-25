@@ -87,7 +87,7 @@ void caixa_fechar(Sistema *sistema) {
     );
 
     // Valor de ajuste
-    float ajuste = (faturamento - valor_abertura - valor_pago_dinheiro - valor_pago_cartao);
+    float ajuste = (valor_abertura - faturamento - valor_pago_dinheiro - valor_pago_cartao);
     sistema->caixa->ajuste = ajuste;
 
     // Se for 0, fechou tudo ok!
